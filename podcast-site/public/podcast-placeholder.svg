@@ -1,0 +1,7 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#f3f4f6"/>
+  <circle cx="200" cy="200" r="80" fill="#9ca3af"/>
+  <path d="M200 120c-44.183 0-80 35.817-80 80s35.817 80 80 80 80-35.817 80-80-35.817-80-80-80zm0 130c-27.614 0-50-22.386-50-50s22.386-50 50-50 50 22.386 50 50-22.386 50-50 50z" fill="#6b7280"/>
+  <circle cx="200" cy="200" r="20" fill="#6b7280"/>
+  <text x="200" y="320" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="16">Podcast Episode</text>
+</svg>
